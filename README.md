@@ -3,7 +3,7 @@
 <br/>
 
 <div align="center">
-    <h4>🫠 🫠 Studying..🫠 🫠</h4>
+    <h4>😿😿 Studying..😿😿</h4>
     <div style="display: flex; justify-content: center;">
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
         <img src="https://img.shields.io/badge/django-0C4B33?style=for-the-badge&logo=django&logoColor=white">
