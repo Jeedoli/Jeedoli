@@ -13,4 +13,8 @@
     </div>
 </div>
 
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeedoli&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jeedoli&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jeedoli&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jeedoli&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jeedoli&theme=github&utcOffset=8)
