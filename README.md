@@ -1,9 +1,7 @@
 <div align="center">
     
 ![header](https://capsule-render.vercel.app/api?type=Venom&text=Jeedoli%20&#128526;&fontColor=FFE4B5&animation=twinkling&color=ADD8E6&fontSize=40&descSize=&height=150)
-
 </div>
-<br/>
 <div align="center">
     <h4>😿😿 Studying..😿😿</h4>
     <div style="display: flex; justify-content: center; flex-wrap: wrap;">
