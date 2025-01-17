@@ -1,4 +1,8 @@
+<div align="center">
+    
 ![header](https://capsule-render.vercel.app/api?type=Venom&text=Jeedoli%20&#128526;&fontColor=FFE4B5&animation=twinkling&color=ADD8E6&fontSize=40&descSize=&height=150)
+
+</div>
 <br/>
 <div align="center">
     <h4>😿😿 Studying..😿😿</h4>
@@ -13,8 +17,13 @@
     </div>
 </div>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeedoli&theme=github)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jeedoli&theme=github)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jeedoli&theme=github)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jeedoli&theme=github)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jeedoli&theme=github&utcOffset=8)
+
+<div align="center">
+    
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeedoli&theme=react)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jeedoli&theme=react)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jeedoli&theme=react)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jeedoli&theme=react)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jeedoli&theme=react&utcOffset=8)
+
+</div>
