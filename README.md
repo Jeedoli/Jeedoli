@@ -11,12 +11,10 @@
         <img src="https://img.shields.io/badge/instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white">
         <img src="https://img.shields.io/badge/discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
     </div>
-    <br/>
-    <div>
-        ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeedoli&theme=github)
-        ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jeedoli&theme=github)
-        ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jeedoli&theme=github)
-        ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jeedoli&theme=github)
-        ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jeedoli&theme=github&utcOffset=8)
-    </div>
 </div>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeedoli&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jeedoli&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jeedoli&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jeedoli&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jeedoli&theme=github&utcOffset=8)
