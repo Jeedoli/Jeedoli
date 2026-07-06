@@ -3,7 +3,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Venom&text=Jeedoli%20&#128526;&fontColor=FFE4B5&animation=twinkling&color=ADD8E6&fontSize=40&descSize=&height=150)
 </div>
 <div align="center">
-    <h4>😿😿 Studying..😿😿</h4>
     <div style="display: flex; justify-content: center; flex-wrap: wrap;">
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
         <img src="https://img.shields.io/badge/django-0C4B33?style=for-the-badge&logo=django&logoColor=white">
